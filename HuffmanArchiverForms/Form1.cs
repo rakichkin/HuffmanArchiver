@@ -12,7 +12,7 @@ namespace HuffmanArchiverForms
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Console.WriteLine("aaaaa");
         }
         private void selectFileBtn_Click(object sender, EventArgs e)
         {
